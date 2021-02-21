@@ -11,3 +11,5 @@ Functional Requirements:
  User must be able to enter desired amount for selected currency
  User should then see a list of exchange rates for the selected currency
  Rates should be persisted locally and refreshed no more frequently than every 30 minutes (to limit bandwidth usage)
+ 
+ Pls note applied MVVM by taking ref from https://github.com/amitpatel-masterly/MobileDeveloperChallenge/tree/dev
